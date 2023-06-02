@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13977cad1da05014a96b6856dd663575, type: 3}
+  m_Name: SwampGround
+  m_EditorClassIdentifier: 
+  wall1: {fileID: 9108285814130025146, guid: 6af1e1dddbb09da4b8eb83be73b81bb6, type: 3}
+  wall2: {fileID: 1816508343748560960, guid: 3427d7d22847d7b44b71522a0951ed78, type: 3}
+  wall3: {fileID: 3173712368320991978, guid: 96e36a0caa9fbf644acef80ea1d20eba, type: 3}
+  wall4: {fileID: 2324545621768316275, guid: f0c714a8e26ba6b44ad4024406fd5b5d, type: 3}
+  wall5: {fileID: 4246884340253447481, guid: 4d10488e6f318d4459de8ebf8efdd2d3, type: 3}
+  wall6: {fileID: 3118434616168486918, guid: 7c94ca7b33059b24da14868cc7c9b81c, type: 3}
+  wall7: {fileID: 5579546055869730172, guid: fecaf2322fcbef54684224df65d9e40d, type: 3}
+  wall8: {fileID: 8788680795721553475, guid: d6ffca6709b6cfd4ea4afdecb94d494d, type: 3}
+  wall9: {fileID: 3143698984883291594, guid: c1cc1a7c996fade4396a88b2135ab27b, type: 3}
+  wall10: {fileID: 121287573467288117, guid: a684a7a70ee82924dbedda057050d33f, type: 3}
+  wall11: {fileID: 8238013195343027244, guid: 5b2fa083d84df40449a272e683e3da21, type: 3}
+  wall12: {fileID: 2626276581078023658, guid: d781365eab1b8a146a26bd33d004cb1a, type: 3}
+  wall13: {fileID: 3493089056305714983, guid: d07c727bcc7566f4f92bc279affea88c, type: 3}
+  wall14: {fileID: 1277051896658668494, guid: 3384c7b13f831eb48be41146466bf621, type: 3}
